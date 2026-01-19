@@ -21,13 +21,13 @@ To analyze e-commerce transaction data and identify sales trends, best-selling p
 ## Visualizations
 
 ### Sales by Category
-![Sales by Category](./screenshots/sales_by_category.png)
+![Sales by Category](sales_by_category.png)
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](./screenshots/monthly_sales_trend.png)
+![Monthly Sales Trend](monthly_sales_trend.png)
 
 ### Top Products
-![Top Products](./screenshots/top_products.png)
+![Top Products](top_products.png)
 
 ### Sales by Region
-![Sales by Region](./screenshots/sales_by_region.png)
+![Sales by Region](sales_by_region.png)
