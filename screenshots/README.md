@@ -1,3 +1,5 @@
+This folder contains screenshots of visualizations for Task1
+
 # Task 1: Business Sales Analysis using Jupyter Notebook
 
 ## Objective
