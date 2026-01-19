@@ -19,7 +19,15 @@ To analyze e-commerce transaction data and identify sales trends, best-selling p
 - South region contributed the highest revenue.
 
 ## Visualizations
-![Sales by Category](screenshots/sales_by_category.png)
-![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
-![Top Products](screenshots/top_products.png)
-![Sales by Region](screenshots/sales_by_region.png)
+
+### Sales by Category
+![Sales by Category](./screenshots/sales_by_category.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](./screenshots/monthly_sales_trend.png)
+
+### Top Products
+![Top Products](./screenshots/top_products.png)
+
+### Sales by Region
+![Sales by Region](./screenshots/sales_by_region.png)
